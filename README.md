@@ -1,9 +1,13 @@
-# college-basketball
-
-I am starting this project to practice building ML models with scikit-learn. I follow College basketball all the way to High School recruits so I'm very pumped for this project. The data was scraped from http://barttorvik.com/trank.php# 
+# college-basketball - SEED-ing
+I follow College basketball all the way to High School recruits so I'm very pumped for this project. 
+The data was scraped from http://barttorvik.com/trank.php# 
 I will be updating this README file with a repo directory as I progress. 
 
 ## Goal of Project:
-My goal is to predict 'seeding' in College Basketball. Wikipedia defines a 'seed' as "a competitor or team in a sport or other tournament who is given a preliminary ranking for the purposes of the draw. Players/teams are "planted" into the bracket in a manner that is typically intended so that the best do not meet until later in the competition". 
+My goal is to predict 'seeding' in College Basketball. 
+
+Every year, at the end of the Regular Season of College Basketball, the top teams get to compete in a tournament popularly referred to as "March Madness". The teams are matched according to a system known as "Seeding". The goal of seeding is to ensure that the best teams do not meet until later in the competition".  
+
+The seed number given to any team in the tournament ranges from 1 - 16. 
 
 Let's do this!
