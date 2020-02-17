@@ -1,4 +1,4 @@
-This dataset is a combination of individual datasets from the last 5 years (2015-2019) of Division 1 College Basketball seasons.
+This dataset is a combination of individual datasets from the last 5 years (2015-2019) of Division I College Basketball seasons.
 
 Variables:
 - TEAM: The Division I college basketball school
