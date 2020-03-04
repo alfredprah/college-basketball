@@ -1,8 +1,9 @@
-# College Basketball - Bracketology (2020) 
-The goal of this project is to predict which teams will make it to March Madness 2020 (Brackets). The data I will be using was scraped from http://barttorvik.com/trank.php# . I will be updating this README file with a repo directory as I progress. 
+# college-basketball
 
-Even though many Sports enthusiasts fill out Brackets annually, no one has ever managed to predict a perfect bracket. For this reason, March Madness is well-known to defy Mathematical analyis, Statistical Probability and even Logic itself. Simply put, March Madness is an unconquered beast. Even though Bracketology also encompasses the process of predicting the winners of each of the brackets, I will limit my project to simply determining which teams will make it to the tournament. 
+I am starting this project to practice building ML models with scikit-learn. I follow College basketball all the way to High School recruits so I'm very pumped for this project. The data was scraped from http://barttorvik.com/trank.php# 
+I will be updating this README file with a repo directory as I progress. 
 
-Of the 353 College Basketball teams in Division I, only 68 teams make it to the NCAA March Madness Tournament. Who is it going to be this year?
+## Goal of Project:
+My goal is to predict 'seeding' in College Basketball. Wikipedia defines a 'seed' as "a competitor or team in a sport or other tournament who is given a preliminary ranking for the purposes of the draw. Players/teams are "planted" into the bracket in a manner that is typically intended so that the best do not meet until later in the competition". 
 
-The final model will take in the current statistics of a team (and possibly the time of year), and let you know whether the team will make it to the March Madenss tournament or not. 
+Let's do this!
