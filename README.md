@@ -4,6 +4,6 @@ I am starting this project to practice building ML models with scikit-learn. I f
 I will be updating this README file with a repo directory as I progress. 
 
 ## Goal of Project:
-My goal is to predict 'seeding' in College Basketball. Wikipedia defines a 'seed' as "a competitor or team in a sport or other tournament who is given a preliminary ranking for the purposes of the draw. Players/teams are "planted" into the bracket in a manner that is typically intended so that the best do not meet until later in the competition". 
+My goal is to predict which teams make it to the College Basketball Tournament, March Madness. 
 
 Let's do this!
